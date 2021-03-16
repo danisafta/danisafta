@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danisafta
+- 👋 Hi, I’m @danisafta, Cloud Engineer @windriver
 - 👀 I’m interested in Cloud Computing & IoT
 - 🌱 I’m currently learning Cloud & DevOps
 - 💞️ I’m looking to collaborate on open-source, cloud-realted projects 
